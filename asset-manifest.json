@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/beer-market2/static/js/main.3792a65f.chunk.js",
+    "main.js.map": "/beer-market2/static/js/main.3792a65f.chunk.js.map",
+    "runtime-main.js": "/beer-market2/static/js/runtime-main.c9b8d93b.js",
+    "runtime-main.js.map": "/beer-market2/static/js/runtime-main.c9b8d93b.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/beer-market2/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.8eb532eb.chunk.js": "/beer-market2/static/js/2.8eb532eb.chunk.js",
+    "static/js/2.8eb532eb.chunk.js.map": "/beer-market2/static/js/2.8eb532eb.chunk.js.map",
+    "index.html": "/beer-market2/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/beer-market2/static/css/2.ef9168ec.chunk.css.map",
+    "static/js/2.8eb532eb.chunk.js.LICENSE.txt": "/beer-market2/static/js/2.8eb532eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9b8d93b.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.8eb532eb.chunk.js",
+    "static/js/main.3792a65f.chunk.js"
+  ]
+}
